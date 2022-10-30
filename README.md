@@ -12,3 +12,4 @@ This repository is organized by chapter containing files and notes.
 > 1.3 hello_cargo
 2. Programming a Guessing Game
 3. Common Programming Concepts
+> 3.1 variables
