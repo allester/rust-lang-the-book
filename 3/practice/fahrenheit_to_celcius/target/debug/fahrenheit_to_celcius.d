@@ -1,0 +1,1 @@
+/Users/allester/Documents/rust-lang-the-book/3/practice/fahrenheit_to_celcius/target/debug/fahrenheit_to_celcius: /Users/allester/Documents/rust-lang-the-book/3/practice/fahrenheit_to_celcius/src/main.rs
