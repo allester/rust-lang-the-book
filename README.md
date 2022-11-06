@@ -26,3 +26,7 @@ This repository is organized by chapter containing files and notes.
 >> 3.A fahrenheit_to_celsius
 
 >> 3.B fibonacci
+
+4. Understanding Ownership
+
+> 4.1 ownership_and_scope
