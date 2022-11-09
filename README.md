@@ -32,3 +32,5 @@ This repository is organized by chapter containing files and notes.
 > 4.1 ownership_and_scope
 
 > 4.2 references_and_borrowing
+
+> 4.3 slices
